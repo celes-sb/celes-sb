@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+FIRST DRAFT!
+
+- 🔭 I’m currently working on a project to build a platform for an Argentinian movement coach.
+- 🌱 I’m currently learning how to build an application with a team and to be a good leader.
+- 👯 I’m looking to collaborate on green projects to fight climate change and create awareness.
+- 🤔 I’m looking for help with integrating front and and back end.
+- 💬 Ask me about anything!
+- 📫 How to reach me: LinkedIn or via email.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 

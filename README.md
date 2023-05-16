@@ -9,23 +9,48 @@ I am a Full Stack Developer graduated from 4Geeks Academy. I was born and raised
 I am a very creative person and I found that what I love the most about coding is to be able to give form to very cool ideas that almost look like magic 🪄
 
 
-- 🔭 I’m currently working on a project to build a platform for an Argentinian movement coach.
-- 🧑‍🤝‍🧑 I’ve been learning how to be a project leader during the duration of my last project and all that it entitles.
-- 🌎 I’m looking to collaborate on environmental and conservation projects to give back to Mother Earth.
-- 🤔 I’m looking to deepen my knowledge of integrating front and and back end.
-- 🫀 Pronouns: she/her
-- 🕶️ Fun fact: I express myself mainly through movement so you can always find me moving my body in all ways possible even if I am in front of the computer. Pretzel developer? 🥨 possibly!
-- 💬 Ask me about anything here 👉 LinkedIn or Email.
+🐒 I’m currently working on a project to build a platform for an Argentinian movement coach.
+🧑‍🤝‍🧑 I’ve been learning how to be a project leader during the duration of my last project and all that it entitles (so 👏 much 👏 going 👏 on!).
+🌎 I’m looking to collaborate on environmental and conservation projects to give back to Mother Earth.
+🎴 Also down to collaborate with anything music, photography, film, movement of the body.
+🧠 I’m looking to deepen my knowledge of integrating front and and back end.
+🫀 Pronouns: she/her
+🕶️ Fun fact: I express myself mainly through movement so you can always find me moving my body in all ways possible even if I am in front of the computer. Pretzel developer? 🥨 possibly!
+
+### Connect with my @ 
+
+👉 <a href="wwww.linkedin.com/in/celestesoledadb" target="_blank">LinkedIn</a>
 
 ### My toolbox:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+</p><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+</p><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+</p><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" 
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />

@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello, stranger! 👽 Welcome to my GitHub :)
 
 <!--
 **celes-sb/celes-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am glad the algorithm brought you here. My name is <b>Celeste</b>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

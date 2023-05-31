@@ -3,9 +3,6 @@
 <!--
 **celes-sb/celes-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center">
-  <img style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=celes-sb&theme=buefy&show_icons=true" alt="GitHub stats" />
-</p>
 <p>I am glad the algorithm brought you here. My name is <b>Celeste S. Bareiro</b> but you can call me <b>C or Celes</b> ;)
 I am a Full Stack Developer graduated from 4Geeks Academy. I was born and raised in Argentina 🇦🇷 and I am currently located in Buenos Aires 🧉. 
 I am a very creative person and I found that what I love the most about coding is to be able to give form to very cool ideas that almost look like magic 🪄</p>

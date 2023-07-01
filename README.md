@@ -6,7 +6,8 @@
 <p>I am glad the algorithm brought you here. My name is <b>Celeste S. Bareiro</b> but you can call me <b>C or Celes</b> ;)
 I am a Full Stack Developer graduated from 4Geeks Academy. I was born and raised in Argentina 🇦🇷 and I am currently located in Buenos Aires 🧉. 
 I am a very creative person and I found that what I love the most about coding is to be able to give form to very cool ideas that almost look like magic 🪄</p>
-  <ul>🐒 I’m currently working on a project to build a platform for an Argentinian movement coach.</ul>
+  <ul>🐒 I’m currently working on a project to build a movement platform for an Argentinian movement coach which will be released this year.</ul>
+  <ul>👩‍💻 I’m participating in an internship at <a href="https://www.nocountry.tech">No Country</a> as a back-end developer. I am building an e-commerce website with a team of 10 people.</ul>
   <ul>🧑‍🤝‍🧑 I’ve been learning how to be a project leader during the duration of my last project and all that it entitles (so 👏 much 👏 going 👏 on!).</ul>
   <ul>🌎 I’m looking to collaborate on environmental and conservation projects to give back to Mother Earth.</ul>
   <ul>🎴 Also down to collaborate with anything connected to music, photography, film, movement of the body.</ul>

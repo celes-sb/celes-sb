@@ -45,9 +45,6 @@ I am a very creative person and I found that what I love the most about coding i
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" />
-  </a>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>

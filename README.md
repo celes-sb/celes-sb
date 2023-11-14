@@ -9,19 +9,9 @@ I am a very creative person and I found that what I love the most about coding i
   <ul>🐒 I’m currently working on a project to build a movement platform for an Argentinian movement coach which will be released this year using React/Python.</ul>
   <ul>👩‍💻 I participated in an internship at <a href="https://www.nocountry.tech">No Country</a> as a full-stack developer. We built an e-commerce website using Node.js/TypeScript</ul>
   <ul>🫀 Pronouns: she/her</ul>
-<h1> </h1>
-<h1 style="display: flex; align-items: center;">Connect with me:     
-  <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank" style="margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;" />
-  </a>
-</h1>
+  <ul>🧠 Connect with me @ <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank">Linkedin</a></ul>
 <br />
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes-sb&layout=compact&langs_count=6" alt="Top Langs" />
-  </a>
-  <br />
-  <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
@@ -53,3 +43,9 @@ I am a very creative person and I found that what I love the most about coding i
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes-sb&layout=compact&langs_count=6" alt="Top Langs" />
+</a>
+</p>
+  </a>

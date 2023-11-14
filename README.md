@@ -8,12 +8,7 @@ I am a Full Stack Developer graduated from 4Geeks Academy. I was born and raised
 I am a very creative person and I found that what I love the most about coding is to be able to give form to very cool ideas that almost look like magic 🪄</p>
   <ul>🐒 I’m currently working on a project to build a movement platform for an Argentinian movement coach which will be released this year using React/Python.</ul>
   <ul>👩‍💻 I participated in an internship at <a href="https://www.nocountry.tech">No Country</a> as a full-stack developer. We built an e-commerce website using Node.js/TypeScript</ul>
-  <ul>🧑‍🤝‍🧑 I learnt how to be a project leader during the duration of my last project and all that it entitles (so 👏 much 👏 going 👏 on!).</ul>
-  <ul>🌎 I’m looking to collaborate on environmental and conservation projects to give back to Mother Earth.</ul>
-  <ul>🎴 Also interested in collaborations connected to music, photography, film, movement of the body.</ul>
-  <ul>🧠 I’m looking to deepen my knowledge of integrating front and and back end.</ul>
   <ul>🫀 Pronouns: she/her</ul>
-  <ul>🕶️ Fun fact: I express myself mainly through movement so you can always find me moving my body in all ways possible even if I am in front of the computer. Pretzel developer? 🥨 possibly!</ul>
 <h1> </h1>
 <h1 style="display: flex; align-items: center;">Connect with me:     
   <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank" style="margin-left: 10px;">

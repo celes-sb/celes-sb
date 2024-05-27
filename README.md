@@ -1,4 +1,4 @@
-# Hello, stranger! 👽 Welcome to my GitHub :)
+# Hello, stranger! 👽 Welcome to my GitHub
 
 <!--
 **celes-sb/celes-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

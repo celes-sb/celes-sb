@@ -3,16 +3,21 @@
 <!--
 **celes-sb/celes-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>I am glad the algorithm brought you here. My name is <b>Celeste S. Bareiro</b> but you can call me <b>C or Celes</b> ;)
-I am a Full Stack Developer graduated from 4Geeks Academy. I was born and raised in Argentina 🇦🇷 and I am currently located in Buenos Aires 🧉. 
-I am a very creative person and what I love the most about coding is to bring very cool magic-like ideas to life. 🪄</p>
-  <ul>👷 At the moment I am working hard in building my portfolio and deeping my JavaScript skills at The Odin Project and FreeCodeCamp.</ul>
-  <ul>🐒 Last year I worked on a project to build a movement platform for an Argentinian movement coach which will be released this year using React/Python. At the moment is in the Deployment stage.</ul>
-  <ul>👩‍💻 I participated in an internship at <a href="https://www.nocountry.tech">No Country</a> as a full-stack developer. We built an e-commerce website using Node.js/TypeScript</ul>
-  <ul>🫀 Pronouns: she/her</ul>
-  <ul>🧠 Connect with me @ <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank">Linkedin</a> or <a href="https://coderbyte.com/profile/celestebareiro" target="_blank">Coderbyte</a></ul>
+<p>Hi there! I'm thrilled the algorithm led you to my profile. My name is Celeste S. Bareiro, but feel free to call me C or Celes 😉. I'm a Full Stack Developer who graduated from 4Geeks Academy. I was born and raised in Argentina 🇦🇷, and I'm currently based in Buenos Aires 🧉. As a creative person, I love transforming cool, magical ideas into reality through code 🪄.
 <br />
+Here's a bit about my journey and projects:
+<br />
+<ul>👷 <strong>Current Focus:</strong> I'm dedicating my time to building my portfolio and honing my JavaScript skills through The Odin Project and FreeCodeCamp.</ul>
+<ul>🐒 <strong>Recent Work:</strong> Last year, I developed a movement platform for an Argentinian coach using React and Python. The project is now in its deployment stage and will be released this year.</ul>
+<ul>👩‍💻 <strong>Internship Experience:</strong> I participated in an internship at <a href="https://www.nocountry.tech">No Country</a> as a full-stack developer, where we created an e-commerce website using Node.js and TypeScript.</ul>
+<ul>🫀 <strong>Pronouns:</strong> She/Her</ul>
+<ul>🧠 <strong>Connect with me @ <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank">Linkedin</a> or <a href="https://coderbyte.com/profile/celestebareiro" target="_blank">Coderbyte</a></strong></ul>
+
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes-sb&layout=compact&langs_count=6" alt="Top Langs" />
+</a>
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
@@ -44,9 +49,3 @@ I am a very creative person and what I love the most about coding is to bring ve
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes-sb&layout=compact&langs_count=6" alt="Top Langs" />
-</a>
-</p>
-  </a>

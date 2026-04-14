@@ -11,7 +11,6 @@ Here's a bit about my journey and projects:
 <ul>🐒 <strong>Recent Work:</strong> Last year, I developed a movement platform for an Argentinian coach using React and Python. The project is now in its deployment stage and will be released this year.</ul>
 <ul>👩‍💻 <strong>Internship Experience:</strong> I participated in an internship at <a href="https://www.nocountry.tech">No Country</a> as a full-stack developer, where we created an e-commerce website using Node.js and TypeScript.</ul>
 <ul>🫀 <strong>Pronouns:</strong> She/Her</ul>
-<ul>🧠 <strong>Connect with me @ <a href="https://www.linkedin.com/in/celestesoledadb" target="_blank">Linkedin</a></ul>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
